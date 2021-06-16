@@ -1,1 +1,1 @@
-# A2I2
+Applied Artificial Intelligence Institute
