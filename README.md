@@ -1,1 +1,1 @@
-Applied Artificial Intelligence Institute
+Applied Artificial Intelligence Institute - AI & ML Upskill Program
