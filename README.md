@@ -2,4 +2,4 @@
 
 > A list of Jupyter notebooks
 
-**Acknowledgements**: Some notebooks are inspired from Tensorflow and Keras Code Examples.
+**Acknowledgements**: Some notebooks are based on Tensorflow and Keras Code Examples.
