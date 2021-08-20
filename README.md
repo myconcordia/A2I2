@@ -7,3 +7,4 @@
 **Acknowledgements**: Some notebooks are based on Tensorflow and Keras Code Examples.
 
 - Autoencoders
+- Generative Adversarial Networks
