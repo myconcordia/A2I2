@@ -6,5 +6,6 @@
 
 **Acknowledgements**: Some notebooks are based on Tensorflow and Keras Code Examples.
 
+## Topics
 - Autoencoders
 - Generative Adversarial Networks
