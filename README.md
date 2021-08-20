@@ -9,4 +9,5 @@
 ## Topics
 - Autoencoders
 <img src="https://blog.keras.io/img/ae/autoencoder_schema.jpg" align="center" />
+
 - Generative Adversarial Networks
