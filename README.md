@@ -1,4 +1,4 @@
-# Applied Artificial Intelligence Institute - AI & ML Upskill Program
+## Applied Artificial Intelligence Institute - AI & ML Upskill Program
 
 > A list of Jupyter notebooks
 
