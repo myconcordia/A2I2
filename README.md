@@ -8,7 +8,7 @@
 
 ## Topics
 - Autoencoders
-<img src="https://blog.keras.io/img/ae/autoencoder_schema.jpg" align="center" />
+<img src="https://blog.keras.io/img/ae/autoencoder_schema.jpg" align="center" width="600" height="200" />
 
 - Generative Adversarial Networks
-<img src="https://sthalles.github.io/assets/dcgan/GANs.png" align="center" width="600" height="300" />
+<img src="https://sthalles.github.io/assets/dcgan/GANs.png" align="center" width="600" height="200" />
